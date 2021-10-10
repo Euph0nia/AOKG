@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Стасик\Project1\Project1\Source.cpp(44,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\Стасик\Project1\Project1\Source.cpp(53,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\user\Desktop\Стасик\Project1\Project1\Source.cpp(53,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\user\Desktop\Стасик\Project1\Project1\Source.cpp(53,12): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\user\Desktop\Стасик\Project1\Project1\Source.cpp(94,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project1.vcxproj -> C:\Users\user\Desktop\Стасик\Project1\Debug\Project1.exe
